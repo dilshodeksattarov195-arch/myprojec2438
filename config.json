@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configeonnect",
+        "uuid": 19603958,
+        "checksum": "rtfyok"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
